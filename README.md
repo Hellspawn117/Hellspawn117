@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hellspawn117
+- 👋 Hi, I’m @Hellspawn117 i am new here :)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
